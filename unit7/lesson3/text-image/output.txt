@@ -1,0 +1,83 @@
+They're dancing at the beach party.
+They're eating cake at a birthday party.
+They're going to a costume party.
+a dessert
+a dessert
+a dessert
+a salad
+a salad
+soup
+He's making dessert.
+She's making a salad.
+He's making a sandwich.
+She's making soup.
+You have to pay with cash.
+You have to wear a coat.
+You have to eat your vegetables.
+You're here.
+Your hotel is there.
+I'm here.
+My cell phone is there.
+The woman is here.
+Her glasses are there.
+This is John.
+This is John's car.
+This is Laura.
+This is Laura's house.
+This is Mr. Smith.
+This is Mr. Smith's living room.
+What did you bring?
+| brought dessert.
+What did you bring?
+| brought a salad.
+Hello?
+Hello.
+Can | speak with Laura, please?
+Yes, here she is.
+These dresses are expensive.
+Those dresses are inexpensive.
+This watch is old.
+That watch is new.
+These cars are white.
+Those cars are red.
+These are my shoes.
+Those are her shoes.
+This is my bicycle.
+That is her bicycle.
+Here is your soup.
+Here are your shoes.
+Here is your coat.
+She's eating dessert.
+He's making a salad.
+He's eating a salad.
+They're making soup.
+They're eating soup.
+Put the television here.
+Put the table there.
+The salad is here.
+The desserts are there.
+The desserts are here.
+The salads are there.
+The soup is here.
+The coffee is there.
+This is the doctor's office.
+This is the police officer's car.
+This is the student's desk.
+| brought this.
+She brought that.
+| drove this.
+She drove that.
+| want this dress.
+| want that shirt.
+| want these jeans.
+| want those shoes.
+The car is here. The ball is there.
+The ball is here. The car is there.
+This ball is red. That ball is yellow.
+This ball is yellow. That ball is red.
+This dinner ends with dessert.
+She's eating salad for lunch.
+This dinner begins with soup.
+The dog can't walk here.
+You can't drive here.
+You can't wear shoes here.
