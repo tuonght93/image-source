@@ -1,0 +1,113 @@
+science
+science
+science
+art
+art
+math
+science
+art
+math
+music
+history
+English
+There is one word.
+There are two words.
+There are three words.
+There are four words.
+This sign doesn't have words on it.
+This sign has one word on it.
+This sign is green.
+This sign is blue.
+Excuse me, what does this word mean?
+It means "pharmacy."
+Excuse me, what does this word mean?
+It means "library."
+Excuse me, what does this sign mean?
+It means "restaurant."
+| understand this word.
+| don't understand these words.
+He understands this.
+She doesn't understand this.
+She understands this book.
+They don't understand this book.
+Excuse me, what time is it?
+t understand you. Can you repeat that, |
+What time is it?
+It's three fifteen.
+t understand you. Can you repeat that, |
+It's three fifteen.
+The teacher gave him a notebook.
+The boy gave her a cake.
+The doctor gave me medicine.
+| bought this jewelry for you.
+She's buying coffee for them.
+| bought coffee for you.
+They wrote letters to me.
+She bought chocolate for us.
+Our grandfather gave us a cat.
+What did you study yesterday?
+Yesterday | studied history and art.
+What did you study yesterday?
+Yesterday we studied science and music
+What did you study yesterday?
+Yesterday we studied music.
+What are you studying today?
+Today we're studying math.
+What are you going to study tomorrow?
+Tomorrow we're going to study science.
+When did you play tennis?
+We played tennis this morning.
+Did the children play soccer today?
+No, they played soccer yesterday.
+What time did you go to work?
+| went to work at nine o'clock.
+What time did you go to school?
+We went to school at eight o'clock.
+Where is Mom going?
+She's going to the grocery store.
+Where did Mom go?
+She went to the grocery store.
+The doctor is giving him medicine.
+The doctor gave me medicine.
+He's buying jewelry for her.
+| bought this jewelry for you.
+She's buying coffee for them.
+| bought coffee for you.
+She understands this book.
+They don't understand this book.
+Excuse me, what does this sign mean?
+It means "pharmacy."
+: understand you. Can you repeat that, p
+Yes. It means "pharmacy."
+Thank you.
+You're welcome.
+Excuse me.
+Yes?
+What does this sign mean?
+It means "library."
+: understand you. Can you repeat that, p
+Yes. It means "library."
+Thank you.
+You're welcome.
+What does this mean?
+It means "gas station."
+What does this mean?
+It means "restroom."
+Excuse me, where is the bank?
+The bank is beside the library.
+: understand you. Can you repeat that, p
+Yes. The bank is beside the library.
+Thank you.
+You're welcome.
+He's selling a hat to her.
+| wrote an e-mail to him.
+He's reading a book to them.
+She bought fruit for them.
+They went to the pharmacy.
+He went to the grocery store.
+She went to the bookstore.
+They went to the beach.
+Where did you go today?
+| went to the park.
+Where did you go last week?
+We went to the mountains.
