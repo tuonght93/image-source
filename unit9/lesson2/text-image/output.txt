@@ -1,0 +1,96 @@
+a stove
+a stove
+a stove
+a dishwasher
+a dishwasher
+arefrigerator
+he glass of orange juice is on the counte
+The refrigerator is beside the counter.
+The dishwasher is under the counter.
+Cups are dishes.
+Bowls are dishes.
+Plates are dishes.
+Glasses are dishes.
+The glass is full of milk.
+The sink is full of dishes.
+The dishwasher is empty.
+The refrigerator is empty.
+There are windows in the ceiling.
+The ceiling is white.
+This floor is made of wood.
+The trash can is on the floor.
+The manis repairing the floor.
+They're repairing their ceiling.
+I'm taking out the trash.
+Please take out the trash.
+She's taking out the trash.
+The manis selling rugs.
+The couch is outside.
+The red rugis on the floor.
+There are three people on the couch.
+I'm vacuuming the ceiling.
+I'm vacuuming the rug.
+Please vacuum the stairs.
+He's vacuuming the couch.
+The woman is cleaning up the car.
+I'm going to clean up the living room.
+The student is cleaning up the library.
+We're cleaning up our bedroom.
+The woman is cleaning the floor.
+The manis cleaning the toilet.
+Please clean the sink.
+I'm cleaning the window.
+The bathtub is full of water.
+The bathtub is empty.
+The sink is beside the toilet.
+The shower is green.
+The trash can smells bad.
+The clean sheets smell good.
+The trash can is full.
+The bowl is empty.
+The glass is full.
+The glass is empty.
+The trash can is full.
+The trash can is empty.
+What are you vacuuming?
+‘m vacuuming the floor under the couch
+What are you vacuuming?
+I'm vacuuming the floor under the rug.
+Where are you going?
+We're going to the park.
+Did you clean up your bedroom?
+Yes, | cleaned up my bedroom.
+Did you vacuum the floor?
+idn't. | will vacuum the floor after | come
+Please clean up the kitchen.
+I'm cleaning up the kitchen.
+Please clean up your bedroom.
+I'm cleaning up my bedroom.
+What do we have to do today?
+We have to clean the bathroom.
+| will clean the sink.
+| will clean the bathtub.
+Will you clean the toilet?
+es. | will clean it after you sweep the floo
+The bathtub is full of water.
+The bathtub is empty.
+The sink is beside the toilet.
+The shower is green.
+The cat is in the sink.
+The boy is in the shower.
+I'm cleaning the sink.
+I'm cleaning the shower.
+The dishes in the sink are dirty.
+The dishes in the dishwasher are clean.
+1 plates and glasses on the counter are d
+The chicken is on the stove.
+The orange juice is in the refrigerator.
+The glasses are in the dishwasher.
+Would you like a glass of water?
+No, thank you. | have one.
+Do you want a glass of milk?
+No. | have one.
+Please sweep the stairs.
+Please take out the trash.
+Please repair the chair.
+Please wash the clothes.
