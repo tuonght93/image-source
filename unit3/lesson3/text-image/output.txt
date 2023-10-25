@@ -1,0 +1,119 @@
+He is writing.
+She is reading.
+He is speaking.
+She is speaking.
+The man is reading Chinese.
+The woman is reading English.
+The boy is writing Arabic.
+The girl is writing Russian.
+This man is from Australia.
+This woman is from Russia.
+This girlis from Japan.
+This boy is from the United States.
+People from Egypt speak Arabic.
+People from China speak Chinese.
+ople from the United States speak Engli:
+People from Australia speak English.
+This is an animal.
+This is a person.
+These are animals.
+These are people.
+ten belts
+twenty cups
+thirty balls
+forty plates
+fifty ties
+sixty hats
+ten
+twenty
+thirty
+forty
+fifty
+sixty
+twenty cups
+twenty-one cups
+twenty-two cups
+twenty-three plates
+twenty-four plates
+twenty-five plates
+thirty-four bowls
+thirty-five bowls
+thirty-six bowls
+thirty-seven plates
+thirty-eight plates
+thirty-nine plates
+forty-four
+forty-five
+forty-six
+forty-seven
+forty-eight
+forty-nine
+forty
+forty-one
+forty-two
+forty-three
+forty-four
+forty-five
+forty-six
+forty-seven
+forty-eight
+forty-nine
+How many plates do we have?
+We have twenty-four.
+How many bowls do we have?
+We have forty-five.
+How many guests are there?
+There are thirty.
+How old are you?
+I'm forty-five years old.
+How old is he?
+He's thirty years old.
+How old are you?
+I'm thirty-five years old.
+| speak Chinese.
+| speak Arabic.
+| speak English.
+| speak Russian.
+Do you speak Arabic?
+Yes. | speak Arabic.
+Do you speak Chinese?
+No. | don't speak Chinese.
+Excuse me.
+Do you speak English?
+Yes. | speak English.
+Excuse me.
+Do you speak Russian?
+Yes. | speak Russian.
+Excuse me, do you speak Chinese?
+No. | don't speak Chinese.
+Excuse me, do you speak Chinese?
+Yes. | speak Chinese.
+My name is Lin.
+My parents are from China.
+We live in New York.
+My parents don't speak English.
+| speak English.
+I'm studying Chinese and Russian.
+My name is Reem.
+| speak Arabic, but I'm studying English
+his is my teacher. His name is Mr. Hadda
+Who is your teacher?
+Mrs. Liis my teacher.
+Who is your teacher?
+Mr. Haddad is my teacher.
+This person speaks Chinese.
+This person speaks Arabic.
+This person speaks English.
+This person speaks Russian.
+This man is from Australia.
+This woman is from Russia.
+This girlis from Japan.
+This boy is from the United States.
+People from Egypt speak Arabic.
+People from China speak Chinese.
+ople from the United States speak Engli:
+People from Australia speak English.
+I'm teaching English.
+You're studying English.
+You're teaching Arabic.
+We're studying Arabic.

@@ -1,0 +1,98 @@
+The women are working.
+The boys are playing.
+The man is working.
+The girl is playing.
+a school
+a hospital
+a restaurant
+a park
+The family is eating inside.
+1e man and the woman are eating outsid
+He is running inside.
+She is running outside.
+Where do you work?
+| work at a park.
+| work at a hospital.
+| work at a school.
+| work at a restaurant.
+When do you work?
+| work in the morning.
+| work in the afternoon.
+| work at night.
+It is morning.
+Itis afternoon.
+It is evening.
+It is night.
+Good morning.
+Good afternoon.
+Good evening.
+Good night.
+morning. The children are eating breakf
+tis afternoon. The men are eating lunch
+Itis evening. The family is eating dinner.
+He is wearing shoes and socks.
+5 wearing shoes, but he is not wearing sc
+I'm wearing a suit and a tie.
+n wearing a suit, but I'm not wearing a ti
+He reads before he sleeps.
+She reads after lunch.
+He drinks coffee before he works.
+They drink coffee after dinner.
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+a hospital
+a restaurant
+a park
+The doctor works at the hospital.
+The men work at the park.
+The women work at the restaurant.
+The teacher works at the school.
+I'm playing at the park.
+I'm playing at the school.
+| work at the hospital.
+| work at the school.
+Where do you work?
+| work at a park.
+| work at a hospital.
+| work at a school.
+| work at a restaurant.
+When do you work?
+| work in the morning.
+| work in the afternoon.
+| work at night.
+morning. The children are eating breakf
+tis afternoon. The men are eating lunch
+Itis evening. The family is eating dinner.
+Good morning, how are you?
+I'm fine.
+Good afternoon, how are you?
+We're fine.
+Good evening.
+Good evening.
+How are you?
+I'm fine. How are you?
+I'm cold.
+Good night.
+Good night.
+seventeen plates
+eighteen balls
+nineteen flowers
+twenty books
+How old are you?
+I'm fourteen years old.
+How old are you?
+I'm nineteen years old.
+He works in the morning.
+He works at night.
+They play in the afternoon.
+She watches television in the evening.
+When do you eat breakfast?
+| eat breakfast before | work.
+When do you eat dinner?
+| eat dinner after | work.
