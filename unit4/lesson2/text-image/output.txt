@@ -1,0 +1,113 @@
+a play
+a play
+a play
+aconcert
+aconcert
+amovie
+soccer
+soccer
+soccer
+golf
+golf
+tennis
+The women are playing golf.
+The women are playing soccer.
+The women are playing tennis.
+They're watching a movie.
+They're watching a play.
+They're listening to a concert.
+They're listening to the radio.
+Oranges
+juice
+tea
+carrots
+The man likes golf.
+The boy doesn't like tennis.
+The women like tea.
+The girl doesn't like red shoes.
+The boy has more juice than his mother.
+he girl has more oranges than her mothe
+2 teacher has more books than the stude
+The girl has more cake than her father.
+The man has less tea than his wife.
+The girl has less bread than her friend.
+The woman has less juice than her son.
+The man has less cake than his son.
+The man has more bread than his wife.
+The man has less bread than his wife.
+‘woman has more money than her husb:
+2 woman has less money than her husba
+Which animal is big?
+This animal is big.
+Which animal is small?
+This animal is small.
+Which fruit is red?
+This fruit is red.
+Which fruit is green?
+This fruit is green.
+How much do the carrots cost?
+The carrots cost three dollars.
+How much does the tea cost?
+The tea costs two euros.
+How much does a movie ticket cost?
+Amovie ticket costs nine pounds.
+five dollars
+ten euros
+fifteen pounds
+She likes to run.
+She likes to read.
+He likes to cook.
+He likes to swim.
+He likes this concert.
+He doesn't like this concert.
+He likes oranges.
+He doesn't like oranges.
+What do you like to do?
+| like to play soccer.
+What do you like to do?
+| like to read.
+| like tennis more than soccer.
+| like apples more than oranges.
+| like milk more than juice.
+| like tea more than coffee.
+Which shoes do you like more?
+> the blue shoes more than the green sh
+Which shirt do you like more?
+ke the black shirt more than the blue shi
+Which bicycle do you like more?
+the green bicycle more than the pink bic
+Which dress do you like more?
+<e the red dress more than the white dre
+The shirt costs twelve pounds.
+The book costs fifteen dollars.
+The sunglasses cost twenty euros.
+Which sweater do you like more?
+ne gray sweater more than the purple sv
+How much does the gray sweater cost?
+It costs twenty-nine dollars.
+What do you like to do?
+| like to play soccer.
+Which shoes do you like?
+| like the black shoes.
+How much do they cost?
+They cost sixty euros.
+one dollar
+ten dollars
+The girl doesn't like to play soccer.
+The manlikes to play soccer.
+The boy doesn't like to play tennis.
+The woman likes to play tennis.
+The girl is drinking juice.
+[he man and the woman are drinking tea
+The man is eating a carrot.
+The woman is eating an orange.
+Who is wearing a blue T-shirt?
+Which T-shirt is red?
+Whois playing golf?
+Which ball is white?
+Who is wearing sunglasses?
+Which sunglasses are pink?
+Which skirt do you like more?
+ke the blue skirt more than the white ski
+How much does the blue shirt cost?
+It costs seven euros.

@@ -1,0 +1,83 @@
+metal
+metal
+metal
+wood
+wood
+paper
+plastic
+plastic
+plastic
+paper
+paper
+wood
+This table is made of wood.
+This chair is made of plastic.
+This ticket is made of paper.
+This ladder is made of metal.
+Coins are made of metal.
+Credit cards are made of plastic.
+Checks are made of paper.
+This jewelry is expensive.
+This jewelry is inexpensive.
+This camera is expensive.
+This camera is inexpensive.
+This car is inexpensive.
+This car is expensive.
+This dress is inexpensive.
+This dress is expensive.
+This television is heavy.
+This table is heavy.
+This coin is light.
+This sheet is light.
+These are fast.
+These are slow.
+Itis fast.
+It is slow.
+The old man has gray hair.
+The old woman has white hair.
+The young woman has black hair.
+The young man has blue hair.
+He has some apples.
+He has more apples.
+He has the most apples.
+How much do ten paper plates cost?
+lates cost one dollar. How many plates d
+| want ten plates.
+Do you want to pay with cash?
+No. | want to pay with a credit card.
+How much does the wooden chair cost?
+The wooden chair costs sixty pounds.
+How much does the plastic chair cost?
+The plastic chair costs four pounds.
+This car is fast.
+This animal is slow.
+The brown horse is fast.
+My books are heavy.
+His books are heavier.
+A plastic bowl is light.
+A paper bowl is lighter.
+My daughter is young.
+My daughter is younger.
+My daughter is the youngest.
+My father is old.
+My father is older.
+My father is the oldest.
+This camera is expensive.
+This television is more expensive.
+This computer is the most expensive.
+The man has some cake.
+The woman has more cake.
+The girl has the most cake.
+He has some apples.
+He has more apples.
+He has the most apples.
+Do you want to pay with a check?
+No. | want to pay with cash.
+Do you want to pay with a credit card?
+No. | want to pay with a check.
+Do you want to pay with cash?
+No. | want to pay with a credit card.
+My house is big.
+My house is bigger than your house.
+My computer is small.
+y computer is smaller than your comput

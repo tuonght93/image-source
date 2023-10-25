@@ -1,0 +1,72 @@
+The man has some rice.
+She has less rice.
+She has the least rice.
+The girl has some cake.
+The woman has less cake.
+The man has the least cake.
+These pens are the same.
+These cups are different.
+These chairs are different.
+These toys are the same.
+These cups are the same size.
+These cups are different sizes.
+These hats are the same size.
+These hats are different sizes.
+This chair is too small.
+This bicycle is too expensive.
+You're too big.
+I'm too short.
+These sunglasses are too big.
+This coat is too small.
+This shoe fits.
+Which shoes are too big?
+Which shoes are too small?
+Which shoes fit?
+Some of the balls are yellow.
+None of the balls are yellow.
+All of the balls are yellow.
+The door is open.
+The door is closed.
+The window is open.
+The window is closed.
+The jewelry store is open.
+The bookstore is open.
+The pharmacy is closed.
+The toy store is closed.
+Thank you.
+You're welcome.
+Thank you.
+You're welcome.
+This is the biggest blue cake.
+How much does it cost?
+It costs twenty-five dollars.
+Thank you.
+You're welcome.
+Do you want some cake?
+Yes.
+Thank you.
+You're welcome.
+The grocery store is open.
+The grocery store is closed.
+The bakery is open.
+The bakery is closed.
+Does the dress fit?
+Yes. It fits.
+Does the shirt fit?
+No. It's too big.
+Which cats do you like?
+| like all of the cats.
+Which toys do you like?
+| like all of the toys.
+Which dress do you like more?
+ke the red dress more than the blue dres
+Which dress do you like the most?
+| like the black dress the most.
+The window is open.
+The door is closed.
+The book is open.
+The book is closed.
+Some of the plates are plastic.
+None of the cups are paper.
+All of the toys are metal.
+All of the toys are wooden.

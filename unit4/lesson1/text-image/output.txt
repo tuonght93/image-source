@@ -1,0 +1,93 @@
+The women have umbrellas.
+He has a ticket.
+She has sunglasses.
+The men have a ladder.
+He needs a ladder.
+He needs a towel.
+She needs soap.
+She needs sunglasses.
+He needs money.
+She has money.
+He needs an umbrella.
+She has an umbrella.
+She needs a coat.
+She wants a purple coat.
+He needs glasses.
+He wants red glasses.
+The white house is old.
+The green car is new.
+The red house is new.
+The blue car is old.
+fruit
+fruit
+fruit
+vegetables
+vegetables
+meat
+jewelry
+jewelry
+jewelry
+clothes
+clothes
+toys
+He sells fruit.
+He sells cars.
+She sells vegetables.
+She sells flowers.
+a grocery store
+a grocery store
+a grocery store
+a hardware store
+a hardware store
+ajewelry store
+y're buying vegetables at the grocery st
+She's buying medicine at the pharmacy.
+You're buying a cake at the bakery.
+She's buying books at the bookstore.
+They're shopping at a grocery store.
+She's shopping at a hardware store.
+He's shopping at a jewelry store.
+The girl wants chocolate.
+The boy wants a toy.
+The woman wants jewelry.
+The dog wants meat.
+My television is broken.
+My toy is broken.
+My ladder is not broken.
+My glasses are not broken.
+Do you need the keys?
+Yes. | need the keys.
+Do you need money?
+Yes. |need money.
+Excuse me. Where is the grocery store?
+The grocery store is near the bridge.
+Excuse me. Where is the bakery?
+The bakery is on Pine Street.
+2 me. | need medicine. Where is the phar
+The pharmacy is near the hospital.
+se me. | want a book. Where is the books
+The bookstore is near the park.
+Excuse me, is this the pharmacy?
+is the bookstore. The pharmacy is on El
+Excuse me, is this the bakery?
+is the grocery store. The bakery is near 1
+| need a new television.
+Why do you need a new television?
+Because my old television is broken.
+| need anew umbrella.
+Why do you need a new umbrella?
+Because my old umbrella is broken.
+The girl wants chocolate.
+The boy wants a toy.
+The woman wants jewelry.
+The dog wants meat.
+The women have umbrellas.
+He has a ticket.
+She has sunglasses.
+The men have a ladder.
+Where is the hardware store?
+‘he hardware store is near the bookstore
+What do you need?
+| need a new ladder.
+Why do you need a new ladder?
+Because my old ladder is broken.
