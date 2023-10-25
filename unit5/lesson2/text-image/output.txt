@@ -1,0 +1,89 @@
+The children are in line.
+The men are inline.
+The women are in line.
+The first person in line is tall.
+The second person in line has blond hair.
+The third person in line has black hair.
+The fourth person in line is thirsty.
+The first number is three.
+The second number is nine.
+The third number is seven.
+a subway
+a subway
+a subway
+abus
+abus
+a taxi
+He's taking the bus.
+She's getting off the bus.
+She's taking the subway.
+They're getting off the subway.
+We're standing at the bus stop.
+She's sitting at the bus stop.
+He's getting off the bus at the bus stop.
+They're going to the subway station.
+I'm sitting at the subway station.
+getting off the subway at the subway stz
+The taxi is turning left.
+The taxiis going straight ahead.
+The taxi is turning right.
+Where is the restroom?
+It's the first door on the right.
+Where is the restroom?
+It's the second door on the left.
+Where do you want to go?
+| want to go to the hotel.
+Where do you want to go?
+We want to go to the theater.
+Where do you want to go?
+| want to go to the stadium.
+Excuse me, where is my seat?
+Your seat is on the right.
+Thank you.
+You're welcome.
+Excuse me.
+Do you want this seat?
+Yes, thank you.
+You're welcome.
+How do you get to work?
+| take the subway to work.
+How do you get to school?
+| walk to school.
+She's getting on the bus.
+He's getting off the bus.
+He's getting on the bus.
+She's getting off the bus.
+Excuse me, how do | get to the bus stop:
+Go straight ahead.
+me, how do | get to the hotel near the m
+Go to the third street, and turn left.
+Excuse me, how do get to the library?
+Go to the museum, and turn right.
+=xcuse me, how do | get to the museum:
+Take the bus to the fourth bus stop.
+t off the bus, and walk to the second stre
+The museum is on the left.
+Thank you.
+You're welcome.
+Excuse me, how do | get to a bank?
+Go straight ahead to the park.
+Turn left.
+A bank is on the right.
+Turn left.
+Go straight ahead.
+Turn right.
+I'm going to work.
+He's going to work.
+They're at work.
+She's at work.
+He's taking the bus.
+She's taking the subway.
+They're taking a taxi.
+Where is the restroom?
+It's the first door on the left.
+Which is your coat?
+coat is red. It's the fourth coat on the ric
+Excuse me, where is my seat?
+You're sitting in the third seat.
+Where is Sarah?
+She's sitting in seat number eight.

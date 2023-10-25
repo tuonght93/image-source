@@ -1,0 +1,102 @@
+a post office
+a hotel
+a bank
+amuseum
+acafe
+a library
+a theater
+a theater
+a theater
+a stadium
+a stadium
+a gas station
+The woman is at home.
+The men are at work.
+The family is at home.
+The children are at school.
+The men are cooking at work.
+The man is cooking at home.
+The children are reading at school.
+The child is reading at home.
+Where are you going?
+We're going to the theater.
+Where are you going?
+I'm going to the hotel.
+Where are you going?
+I'm going to the library.
+She needs some gas.
+She needs some money.
+She needs a map.
+She needs some coffee.
+The bicycle is in front of the house.
+The bicycle is behind the house.
+The horse is in front of the museum.
+The woman is behind the man.
+The man is beside his car.
+The blue car is beside the red car.
+The man is beside his wife.
+The woman is beside her horse.
+The man is behind the car.
+The man is beside the car.
+The man is in front of the car.
+The cafe is on his left.
+The cafe is on his right.
+The theater is on his left.
+The theater is on his right.
+She works at the bank.
+He works at the post office.
+They work at the cafe.
+She's reading at the cafe.
+They're reading at the library.
+He's reading at the museum.
+The children are at home.
+The children are going to school.
+The children are at school.
+The woman is at home.
+The woman is going to the post office.
+The woman is at the post office.
+Where are you going?
+I'm going to the pharmacy.
+Where are you going?
+We're going to the library.
+Where are you going?
+I'm going to the hospital.
+Where are you going?
+We're going to the stadium.
+Where is he going?
+He's going to school.
+Where are they going?
+They're going to the cafe.
+Where are you going?
+We're going to the theater.
+Where are you going?
+I'm going to the stadium.
+Where are you going?
+I'm going to the library.
+The man is behind the tree.
+The boy is in front of the tree.
+The girl is behind the sheet.
+The woman is in front of the sheet.
+The cafe is on his left.
+The cafe is on his right.
+The theater is on his left.
+The theater is on his right.
+Where are you?
+I'm under the chair.
+Where are you?
+I'm behind the chair.
+Where are you?
+I'm under the car.
+Where are you?
+I'm behind the car.
+I'm going to the hotel.
+He's going to the bank.
+We're going to the park.
+They're going to the museum.
+The flowers are in his left hand.
+The toy is beside his right foot.
+This is her right hand.
+This is her left foot.
+Where do you want to go?
+We want to go to the post office.
+The post office is beside the bookstore.
